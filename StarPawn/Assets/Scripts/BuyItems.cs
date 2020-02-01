@@ -14,7 +14,9 @@ public class BuyItems : MonoBehaviour
     {
         rand = (new System.Random()).Next(0, 2);
 
-        Item = gameObject.Getcomponet.itemsArr[rand];
+        currentItem = itemsArr[rand];
+
+        
     }
 
     // Update is called once per frame
