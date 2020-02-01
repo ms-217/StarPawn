@@ -10,9 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2891975965083090736}
   - component: {fileID: 5049986899067827267}
-  - component: {fileID: 2196100795817025384}
   m_Layer: 0
-  m_Name: crystals
+  m_Name: Crystal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81,15 +80,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2196100795817025384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3653184303613167669}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 613ba937a04cc0447a2a3e6bab85ff20, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

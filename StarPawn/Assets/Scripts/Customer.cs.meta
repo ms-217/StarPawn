@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:StarPawn/Assets/Scripts/Customer.cs.meta
 guid: 323dc8d553c5a784688ebb34a2e9e6f0
+=======
+guid: b7c268deea0fe9f48abb768de5929e18
+>>>>>>> c9e75271e564d996271c09fef2e12af8e7319949:StarPawn/Assets/Scripts/DisplayDescription.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
